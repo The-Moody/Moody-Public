@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/The-Moody/The-Moody/main/The-Moody.vrm
+https://raw.githubusercontent.com/The-Moody/Moody-Public/blob/main/The-Moody.vrm
